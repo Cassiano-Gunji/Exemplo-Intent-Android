@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent Example</string>
+    <string name="digiteAlgo">Type something</string>
+    <string name="enviar">Send</string>
+</resources>
