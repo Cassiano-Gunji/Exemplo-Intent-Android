@@ -2,4 +2,9 @@
     <string name="app_name">Intent Example</string>
     <string name="digiteAlgo">Type something</string>
     <string name="enviar">Send</string>
+    <string name="pergunta">What do you want to do with</string>
+    <string name="internet">Search the Internet</string>
+    <string name="mapa">Search a location</string>
+    <string name="erroIntent">I couldn\'t launch the app.</string>
+    <string name="escolhaApp">Choose the App to open.</string>
 </resources>
