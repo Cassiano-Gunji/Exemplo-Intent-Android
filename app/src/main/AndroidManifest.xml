@@ -15,7 +15,6 @@
         <activity
             android:name=".MostreMensagemActivity"
             android:parentActivityName=".MainActivity"
-            android:launchMode="singleTop"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
