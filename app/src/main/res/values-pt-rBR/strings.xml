@@ -3,4 +3,9 @@
     <string name="app_name">Exemplo Intent</string>
     <string name="digiteAlgo">Digite algo</string>
     <string name="enviar">Enviar</string>
+    <string name="pergunta">O que você quer fazer com</string>
+    <string name="internet">Procurar na Internet</string>
+    <string name="mapa">Procurar um local</string>
+    <string name="erroIntent">Não consegui abrir o app.</string>
+    <string name="escolhaApp">Escolha o App para abrir.</string>
 </resources>
